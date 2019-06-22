@@ -1,0 +1,8 @@
+game:
+  arch: win32
+  exe: /home/rnbt/Games/melty-blood-actress-again-current-code/drive_c/Program Files/MBAACC/MBAA.exe
+  prefix: /home/rnbt/Games/melty-blood-actress-again-current-code
+system: {}
+wine:
+  version: staging-3.8-i386
+  x360ce-xinput9: true

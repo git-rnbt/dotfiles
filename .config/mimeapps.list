@@ -1,0 +1,14 @@
+[Added Associations]
+application/x-bittorrent=qbittorrent.desktop;
+text/plain=libreoffice-writer.desktop;
+application/pdf=zathura-pdf-poppler.desktop;atril.desktop;
+image/png=ristretto.desktop;
+application/x-shellscript=vim.desktop;
+application/x-tint2-theme=tint2conf.desktop;
+image/jpeg=ristretto.desktop;
+text/markdown=vim.desktop;libreoffice-writer.desktop;
+application/zip=engrampa.desktop;
+application/x-ms-dos-executable=wine-extension-vbs.desktop;
+inode/directory=exo-file-manager.desktop
+x-scheme-handler/trash=exo-file-manager.desktop
+application/x-xz-compressed-tar=engrampa.desktop;

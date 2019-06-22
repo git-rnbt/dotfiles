@@ -1,0 +1,6 @@
+game:
+  exe: /home/rnbt/.wine/drive_c/Games/Touhou 12.3 - Hisoutensoku/th123.exe
+system:
+  reset_desktop: true
+wine:
+  x360ce-dinput: true

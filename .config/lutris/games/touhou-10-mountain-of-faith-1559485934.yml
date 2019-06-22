@@ -1,0 +1,10 @@
+game:
+  exe: /home/rnbt/.wine/drive_c/Games/Touhou 10 - Mountain of Faith/th10 (thpatch-en).exe
+system:
+  env:
+    ? ''
+    : ''
+  game_path: ~/.wine/drive_c/Games
+  reset_desktop: true
+wine:
+  Desktop: false

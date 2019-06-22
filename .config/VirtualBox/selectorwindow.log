@@ -1,0 +1,17 @@
+VirtualBox GUI VM Selector Window 5.2.18_Ubuntu r123745 linux.amd64 (Mar  8 2019 18:20:35) release log
+00:00:04.753877 Log opened 2019-06-18T15:26:36.648360000Z
+00:00:04.753880 Build Type: release
+00:00:04.753886 OS Product: Linux
+00:00:04.753890 OS Release: 4.18.0-22-generic
+00:00:04.753894 OS Version: #23~18.04.1-Ubuntu SMP Thu Jun 6 08:37:25 UTC 2019
+00:00:04.753938 DMI Product Name: X551MA
+00:00:04.753966 DMI Product Version: 1.0       
+00:00:04.754047 Host RAM: 3832MB (3.7GB) total, 2743MB (2.6GB) available
+00:00:04.754053 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:04.754054 Process ID: 3414
+00:00:04.754055 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:04.754110 Qt version: 5.9.5
+00:00:05.329464 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:06.513560 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:06.678081 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x22 x 1366x746
+00:00:24.292683 GUI: UIMediumEnumerator: Medium-enumeration finished!
