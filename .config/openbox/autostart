@@ -3,5 +3,4 @@
 tint2 &
 
 #set background
-#color palette
-wal -i /home/rnbt/Pictures/bg3.png
+nitrogen --restore
